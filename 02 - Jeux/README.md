@@ -8,6 +8,7 @@ jeux vidéo et des jeux de stratégie.
 Les jeux réalisés sont les suivants :
 
 - Pendu
+- Nim
 
 ## Statistiques
 
