@@ -9,6 +9,7 @@ Les jeux réalisés sont les suivants :
 
 - Pendu
 - Nim
+- Pong
 
 ## Statistiques
 
