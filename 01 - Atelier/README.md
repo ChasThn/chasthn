@@ -7,7 +7,7 @@ de l'informatique à travers la programmation.
 
 Les ateliers réalisés sont les suivants :
 
-- 
+- Fonctions
 
 ## Statistiques
 
