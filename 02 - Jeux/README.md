@@ -11,6 +11,7 @@ Les jeux réalisés sont les suivants :
 - Nim
 - Pong
 - Snake
+- SpaceInvaders
 
 ## Statistiques
 
