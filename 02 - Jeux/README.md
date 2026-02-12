@@ -12,6 +12,7 @@ Les jeux réalisés sont les suivants :
 - Pong
 - Snake
 - SpaceInvaders
+- Tetris
 
 ## Statistiques
 
