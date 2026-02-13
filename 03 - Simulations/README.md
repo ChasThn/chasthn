@@ -7,7 +7,7 @@ processus algorithmiques, physiques et biologiques.
 
 Les simulations réalisées sont les suivantes :
 
-- 
+- 01 - Triangle de Sierpinski
 
 ## Statistiques
 
