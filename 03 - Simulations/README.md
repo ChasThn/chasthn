@@ -9,6 +9,7 @@ Les simulations réalisées sont les suivantes :
 
 - 01 - Triangle de Sierpinski
 - 02 - Flocon de Von Koch
+- 03 - Courbe de Hilbert
 
 ## Statistiques
 
