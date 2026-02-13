@@ -13,6 +13,7 @@ Les jeux réalisés sont les suivants :
 - Snake
 - SpaceInvaders
 - Tetris
+- HanoiTowers
 
 ## Statistiques
 
