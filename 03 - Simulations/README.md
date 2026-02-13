@@ -8,6 +8,7 @@ processus algorithmiques, physiques et biologiques.
 Les simulations réalisées sont les suivantes :
 
 - 01 - Triangle de Sierpinski
+- 02 - Flocon de Von Koch
 
 ## Statistiques
 
